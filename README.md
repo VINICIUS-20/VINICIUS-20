@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Vinícius Giraldelli de Souza 😁
+## Welcome to profile of Vinícius Giraldelli de Souza 😁
 
  <div>
    <a href="https://github.com/VINICIUS-20">
