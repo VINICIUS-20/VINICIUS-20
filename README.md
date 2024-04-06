@@ -19,7 +19,7 @@
  
 <br>
  
-### Pra mais sobre mim me segue nas redes abaixo!
+### To find out more about me visit the links below!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCFiTVOUBBYzmsc8MW2InXiA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
